@@ -1,1 +1,2 @@
-13.127.129.178 ansible_user=ubuntu ansible_ssh_private_key_file=/home/ubuntu/Deepak.pem
+[dev]
+65.0.170.27 ansible_user=ubuntu ansible_ssh_private_key_file=/home/project/projCert/Deepak.pem
